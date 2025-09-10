@@ -1,10 +1,22 @@
 <div align=center>
 
-# Hola, soy Raul 👨‍💻
+![imgBackground](resources/background.png)
+
+
+# Hola, soy Raul Tasayco (20)👨‍💻
 </div>
+
 ~~~python
-    def presentation():
-        Soy un estudiante de Ingeniería de Software del 6to ciclo en la **UPC**. Me gusta el desarrollo de software y estoy siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. Tengo un enfoque especial en las buenas prácticas de desarrollo, aplicando metodologías como **Domain Driven Design** para crear soluciones robustas y escalables.
+def presentation():
+    
+Soy un estudiante de Ingeniería de Software del 6to ciclo en la **UPC**. Me gusta el desarrollo de software y estoy siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. Tengo un enfoque especial en las buenas prácticas de desarrollo, aplicando metodologías como **Domain Driven Design** para crear soluciones robustas y escalables.
+
+name = Raul Hiroshi
+last_name = Tasayco Osorio
+university = UPC ♨️
+age = 20 years
+cycle = 6° 
+hobby = cycling 🚴
 ~~~
 ---
 
@@ -29,7 +41,7 @@ A lo largo de mi carrera, he adquirido conocimientos en diversas áreas, incluye
 
 ---
 
-### ¿Quieres conectar? 🤝
+### ¿Quieres conectar conmigo? 🤝
 
 * **Correo electrónico:** raultasayco54321@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/raul-hiroshi-tasayco-osorio-811302296/
