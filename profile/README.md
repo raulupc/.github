@@ -35,7 +35,7 @@ hobby = cycling 🚴
 A lo largo de mi carrera, he adquirido conocimientos en diversas áreas, incluyendo:
 
 * **Lenguajes de Programación:** C++ && Python
-* **Frameworks:** Angular
+* **Frameworks:** Angular && (aprendiendo Vue)
 * **Bases de Datos:** SQL Server
 * **Desarrollo Web:** HTML, CSS
 * **Control de Versiones:** Git
