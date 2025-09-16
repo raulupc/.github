@@ -9,7 +9,17 @@
 ~~~python
 def presentation():
     
-Soy un estudiante de Ingeniería de Software del 6to ciclo en la **UPC**. Me gusta el desarrollo de software y estoy siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. Tengo un enfoque especial en las buenas prácticas de desarrollo, aplicando metodologías como **Domain Driven Design** para crear soluciones robustas y escalables.
+Soy un estudiante de
+Ingeniería de Software del
+6to cicloen la **UPC**.
+Me gusta el desarrollo de software
+y estoy siempre buscando aprender
+nuevas tecnologías y mejorar mis habilidades.
+Tengo un enfoque especial en las
+buenas prácticas de desarrollo,
+aplicando metodologías como
+**Domain Driven Design**
+para crear soluciones robustas y escalables.
 
 name = Raul Hiroshi
 last_name = Tasayco Osorio
