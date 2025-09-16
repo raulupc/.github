@@ -43,7 +43,8 @@ A lo largo de mi carrera, he adquirido conocimientos en diversas áreas, incluye
 
 ### ¿Quieres conectar conmigo? 🤝
 
-* **Correo electrónico:** raultasayco54321@gmail.com
+* **Email Address:** raultasayco54321@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/raul-hiroshi-tasayco-osorio-811302296/
+* **Phone Number:** +51 926 806 778
 
 ¡Thanks a lot!
