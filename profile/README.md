@@ -15,7 +15,7 @@ def presentation():
     
 Soy un estudiante de
 Ingeniería de Software del
-6to cicloen la **UPC**.
+6to ciclo en la **UPC**.
 Me gusta el desarrollo de software
 y estoy siempre buscando aprender
 nuevas tecnologías y mejorar mis habilidades.
@@ -25,12 +25,12 @@ aplicando metodologías como
 **Domain Driven Design**
 para crear soluciones robustas y escalables.
 
-name = Raul Hiroshi
+first_name = Raul Hiroshi
 last_name = Tasayco Osorio
 university = UPC ♨️
 age = 20 years
 cycle = 6° 
-hobby = cycling 🚴
+hobby = cycling & soccer🚴
 ~~~
 ---
 
@@ -57,8 +57,8 @@ A lo largo de mi carrera, he adquirido conocimientos en diversas áreas, incluye
 
 ### ¿Quieres conectar conmigo? 🤝
 
-* **Email Address:** raultasayco54321@gmail.com
+* **Email Address:** raultasayco54321@gmail.com 
 * **LinkedIn:** https://www.linkedin.com/in/raul-hiroshi-tasayco-osorio-811302296/
-* **Phone Number:** +51 926 806 778
+* **Phone Number:** +51 926 806 778 (Whatsapp)
 
 ¡Thanks a lot!
