@@ -3,6 +3,8 @@
 ![imgBackground](resources/background.png)
 
 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=4200&pause=800&color=8F1BF7&width=435&lines=Hola%2C+soy+Raul+Tasayco+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
