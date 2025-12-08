@@ -15,21 +15,20 @@ def presentation():
     
 Soy un estudiante de
 Ingeniería de Software del
-6to ciclo en la **UPC**.
+7to ciclo en la **UPC**.
 Me gusta el desarrollo de software
 y estoy siempre buscando aprender
 nuevas tecnologías y mejorar mis habilidades.
 Tengo un enfoque especial en las
 buenas prácticas de desarrollo,
-aplicando metodologías como
-**Domain Driven Design**
+aplicando metodologías Ágiles
 para crear soluciones robustas y escalables.
 
 first_name = Raul Hiroshi
 last_name = Tasayco Osorio
 university = UPC ♨️
 age = 20 years
-cycle = 6° 
+cycle = 7° 
 hobby = cycling & soccer🚴
 ~~~
 ---
@@ -39,19 +38,21 @@ hobby = cycling & soccer🚴
 A lo largo de mi carrera, he adquirido conocimientos en diversas áreas, incluyendo:
 
 * **Lenguajes de Programación:** C++ && Python
-* **Frameworks:** Angular && (aprendiendo Vue)
-* **Bases de Datos:** SQL Server
-* **Desarrollo Web:** HTML, CSS
+* **IDE's:** VSC, VS, Webstorm, IntelliJ IDEA, Rider
+* **Frameworks:** Angular, .NET && Vue
+* **Bases de Datos:** SQL Server, MySQL
+* **Desarrollo Web:** HTML, CSS, JS
 * **Control de Versiones:** Git
 * **Ofimática:** Microsoft Office
+* **Testeo API:** Postman
 
 ---
 
 ### Lo que me interesa 
 
-* **Desarrollo de Software:** Me centro en la creación de aplicaciones funcionales y eficientes.
-* **Arquitectura de Software:** Me gusta aplicar principios de diseño para construir sistemas bien estructurados.
-* **Proyectos Personales:** Estoy siempre en busca de oportunidades para aplicar mis conocimientos en proyectos desafiantes y creativos.
+* **Desarrollo de Software:** Me centro en la creación de aplicaciones funcionales.
+* **Arquitectura de Software:** Me gusta aplicar principios de diseño para construir sistemas bien estructurados y ordenados.
+* **Proyectos Personales:** Cuento con proyectos financieros como KapakID y Urbania360 ambos implementando dashboards.
 
 ---
 
