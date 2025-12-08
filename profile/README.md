@@ -54,6 +54,8 @@ A lo largo de mi carrera, he adquirido conocimientos en diversas áreas, incluye
 * **Arquitectura de Software:** Me gusta aplicar principios de diseño para construir sistemas bien estructurados y ordenados.
 * **Proyectos Personales:** Cuento con proyectos financieros como KapakID y Urbania360 ambos implementando dashboards.
 
+* **Urbania360: ** https://lighthearted-dodol-a6c171.netlify.app/login
+* **KapakID: ** https://f1ntracktry.web.app/auth/login 
 ---
 
 ### ¿Quieres conectar conmigo? 🤝
