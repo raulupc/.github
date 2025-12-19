@@ -16,6 +16,7 @@ def presentation():
 Soy un estudiante de
 Ingeniería de Software del
 7to ciclo en la **UPC**.
+Practicante del BCP 
 Me gusta el desarrollo de software
 y estoy siempre buscando aprender
 nuevas tecnologías y mejorar mis habilidades.
