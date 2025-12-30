@@ -15,10 +15,12 @@ def presentation():
     
 Soy un estudiante de
 Ingeniería de Software del
-7to ciclo en la **UPC**.
-Practicante del BCP 
-Me gusta el desarrollo de software
-y estoy siempre buscando aprender
+7to ciclo en la UPC.
+
+Practicante – GCIA AREA ESTRAT. FINANZAS TI, DATA Y OP - BCP
+
+Me gusta el desarrollo de software,
+estoy siempre buscando aprender
 nuevas tecnologías y mejorar mis habilidades.
 Tengo un enfoque especial en las
 buenas prácticas de desarrollo,
@@ -29,7 +31,7 @@ first_name = Raul Hiroshi
 last_name = Tasayco Osorio
 university = UPC ♨️
 age = 20 years
-cycle = 7° 
+cycle = 7mo
 hobby = cycling & soccer🚴
 ~~~
 ---
@@ -43,7 +45,7 @@ A lo largo de mi carrera, he adquirido conocimientos en diversas áreas, incluye
 * **Frameworks:** Angular, .NET && Vue
 * **Bases de Datos:** SQL Server, MySQL
 * **Desarrollo Web:** HTML, CSS, JS
-* **Control de Versiones:** Git
+* **Control de Versiones:** Git, GitHub
 * **Ofimática:** Microsoft Office
 * **Testeo API:** Postman
 
@@ -55,8 +57,8 @@ A lo largo de mi carrera, he adquirido conocimientos en diversas áreas, incluye
 * **Arquitectura de Software:** Me gusta aplicar principios de diseño para construir sistemas bien estructurados y ordenados.
 * **Proyectos Personales:** Cuento con proyectos financieros como KapakID y Urbania360 ambos implementando dashboards.
 
-* **Urbania360: ** https://lighthearted-dodol-a6c171.netlify.app/login
-* **KapakID: ** https://f1ntracktry.web.app/auth/login 
+* **Urbania360:** https://lighthearted-dodol-a6c171.netlify.app/login
+* **KapakID:** https://f1ntracktry.web.app/auth/login 
 ---
 
 ### ¿Quieres conectar conmigo? 🤝
