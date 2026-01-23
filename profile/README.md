@@ -17,7 +17,7 @@ Soy un estudiante de
 Ingeniería de Software del
 7to ciclo en la UPC.
 
-Practicante – GCIA AREA ESTRAT. FINANZAS TI, DATA Y OP - BCP
+Practicante Pre Profesional BCP
 
 Me gusta el desarrollo de software,
 estoy siempre buscando aprender
