@@ -61,10 +61,4 @@ A lo largo de mi carrera, he adquirido conocimientos en diversas áreas, incluye
 * **KapakID:** https://f1ntracktry.web.app/auth/login 
 ---
 
-### ¿Quieres conectar conmigo? 🤝
-
-* **Email Address:** raultasayco54321@gmail.com 
-* **LinkedIn:** https://www.linkedin.com/in/raul-hiroshi-tasayco-osorio-811302296/
-* **Phone Number:** +51 926 806 778 (Whatsapp)
-
 ¡Thanks a lot!
