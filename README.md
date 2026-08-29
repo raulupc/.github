@@ -1,10 +1,10 @@
 <div align=center>
 
-# Hola, soy Raul 👨‍💻
+# Hola, soy Hiro 👨‍💻
 </div>
 ~~~python
     def presentation():
-        Soy un estudiante de Ingeniería de Software del 6to ciclo en la **UPC**. Me gusta el desarrollo de software y estoy siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. Tengo un enfoque especial en las buenas prácticas de desarrollo, aplicando metodologías como **Domain Driven Design** para crear soluciones robustas y escalables.
+       Estudiante de Ingeniería de Software del 8vo ciclo en la **UPC**. Me enfoco en el desarrollo de software , tengo un enfoque especial en las buenas prácticas de desarrollo, aplicando metodologías como **Domain Driven Design** para crear soluciones robustas y escalables en desktop y mobile.
 ~~~
 ---
 
